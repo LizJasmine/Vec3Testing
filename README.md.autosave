@@ -1,6 +1,6 @@
 # Getting started with Git
 
-1. Initialise the folder 
+1. Initialise the folder
 ```
 git init
 ```
@@ -20,4 +20,13 @@ git commit -am "Initial Commit"
 4. Remove unwanted files from version control
 ```
 git rm Makefile *.o *.pro.user
+```
+
+Then Commit
+```
+git commit -am "remove unwanted files"
+```
+
+5. The .gitignore file (touch)
+
 ```
