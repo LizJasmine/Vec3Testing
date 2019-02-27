@@ -5,4 +5,19 @@
 git init
 ```
 
-2.
+2. Add files to version control
+# '.' adds all files
+```
+git add .
+```
+
+3. Make a commit
+```
+git commit -am "Initial Commit"
+```
+
+
+4. Remove unwanted files from version control
+```
+git rm Makefile *.o *.pro.user
+```
