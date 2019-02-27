@@ -26,3 +26,7 @@ Then Commit
 ```
 git commit -am "remove unwanted files"
 ```
+
+5. The .gitignore file (touch)
+
+```
